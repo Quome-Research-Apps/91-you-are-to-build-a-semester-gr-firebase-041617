@@ -1,0 +1,1 @@
+{"name": "91-you-are-to-build-a-semester-gr-firebase-041617", "spec": {"port": 8000, "containers": [{"image": "", "name": "91-you-are-to-build-a-semester-gr-firebase-041617", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
